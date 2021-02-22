@@ -1,0 +1,14 @@
+{
+  "name": "webd6201-lesson2b",
+  "version": "1.0.0",
+  "description": "WEBD6201-LESSON 2 B",
+  "main": "app.js",
+  "author": "kritsanasak poungchan",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}

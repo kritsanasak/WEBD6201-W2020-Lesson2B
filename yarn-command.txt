@@ -1,0 +1,22 @@
+
+npm install -g yarn # if not install in global
+
+1) yarn init 
+2) yarn add jquery
+3) yarn add popper.js 
+4) yarn add bootstrap
+5) yarn add @fortawesome/fontawesome-free
+
+สามารถรวบรายชื่อของแพ็คเกจไว้ในคำสั่ง add เดียวได้ โดยคั่นด้วยช่องว่างเช่น
+yarn add jquery popper.js bootstrap @fortawesome/fontawesome-free
+
+
+[git]
+1) git init
+2) git add . # เพิ่มไฟล์เข้า git . หมายถึง เพิ่มทุกไฟล์ในไดเรกทอรี่
+3) git branch -M main # ตั้งชื่อเส้นทางสำหรับ git ชื่อ main
+4) สร้าง git repository ในเว็บไซต็ www.github.com และ copy ชื่อ url บน git เช่น https://github.com/kritsanasak/webd6201-lesson1.git
+5) git remote add -m https://github.com/kritsanasak/webd6201-lesson1.git
+6) git commit -m "First Commit" # บันทึกเวอร์ชั่นแรกไว้พร้อมกับคอมเม้น บันทึกที่เครื่องโลคอล
+7) git push -u origin main # อัพโหลดไฟล์เวอร์ชั่นขึ้นไปบนเว็บไวต์ github
+ศึกษาคำสั่งอื่นๆ ของ git
